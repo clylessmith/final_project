@@ -1,0 +1,126 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "ingredients",
+					"jsonFile" : "directory-ingredients-Debug-a1d6013c7415ea70c44f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ingredients",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "final_project",
+					"jsonFile" : "directory-final_project-Debug-2c7fe2065b98852388f5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "final_project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "final_project/shader",
+					"jsonFile" : "directory-final_project.shader-Debug-ff92d5c2cab5e280f0ce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "final_project/shader",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "final_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "final_project::@f6378cd659d87e8dea04",
+					"jsonFile" : "target-final_project-Debug-d056f4c0b57a069ab334.json",
+					"name" : "final_project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ingredients::@1bb7604bb9b5839c4d98",
+					"jsonFile" : "target-ingredients-Debug-235c8a1b1194f531e35c.json",
+					"name" : "ingredients",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "shaders::@93bc2fc40ccd048d250c",
+					"jsonFile" : "target-shaders-Debug-4fe2891169e17a1a935d.json",
+					"name" : "shaders",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build",
+		"source" : "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

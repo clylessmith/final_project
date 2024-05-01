@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/teapotpatch.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/teapotpatch.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/teapotpatch.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/teapotpatch.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/teapot.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/teapot.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/teapot.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/teapot.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/torus.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/torus.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/torus.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/torus.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/glutils.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glutils.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glutils.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/glutils.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/objmesh.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/objmesh.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/objmesh.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/objmesh.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/glslprogram.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glslprogram.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glslprogram.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/glslprogram.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/cube.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/cube.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/cube.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/cube.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/plane.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/plane.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/plane.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/plane.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/sphere.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/sphere.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/sphere.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/sphere.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/glad/src/glad.c.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/src/glad.c",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/src/glad.c",
+  "output": "ingredients/CMakeFiles/ingredients.dir/glad/src/glad.c.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/trianglemesh.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/trianglemesh.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/trianglemesh.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/trianglemesh.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/texture.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/texture.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/texture.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/texture.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/grid.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/grid.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/grid.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/grid.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/skybox.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/skybox.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/skybox.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/skybox.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/ingredients",
+  "command": "/usr/bin/clang++  -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/ingredients.dir/stbimpl.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/stbimpl.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/stbimpl.cpp",
+  "output": "ingredients/CMakeFiles/ingredients.dir/stbimpl.cpp.o"
+},
+{
+  "directory": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/build/final_project",
+  "command": "/usr/bin/clang++ -DGLFW_INCLUDE_NONE -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients -I/usr/local/include -I/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/ingredients/glad/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/final_project.dir/final_project.cpp.o -c /Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/final_project/final_project.cpp",
+  "file": "/Users/camdenlyles-smith/Desktop/School/CSCI544/final_project/final_project/final_project.cpp",
+  "output": "final_project/CMakeFiles/final_project.dir/final_project.cpp.o"
+}
+]
